@@ -15,9 +15,9 @@ You can find more information about the project in the [blog post]()
 
 * Python version Python: 3.10.12
 * Jupiter version: 6.5.6
-* AutoViz version:  0.1.804
-* Darts version check 0.29.0
-* Tensorboard version 2.15.1
+* AutoViz version: 0.1.804
+* Darts version: 0.29.0
+* Tensorboard version: 2.15.1
 
 ## Setup
 Explain what you need to change before running the project.
