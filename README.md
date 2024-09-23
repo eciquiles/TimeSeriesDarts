@@ -20,7 +20,7 @@ You can find more information about the project in the [blog post]()
 * Tensorboard version: 2.15.1
 
 ## Setup
-Explain what you need to change before running the project.
+Every Jupiter note can either use a trained model or change the code to train the model save it and make predictions. In order to achieve this, you will need to uncomment some part of the code. It is specified in each notebook.
 
 ## Contact
 
