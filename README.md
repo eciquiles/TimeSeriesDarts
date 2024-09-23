@@ -20,7 +20,7 @@ You can find more information about the project in the [blog post]()
 * Tensorboard version: 2.15.1
 
 ## Setup
-Every Jupiter note can either use a trained model or change the code to train the model save it and make predictions. In order to achieve this, you will need to uncomment some part of the code. It is specified in each notebook.
+Each Jupyter notebook in this repository can be used to either load a pre-trained model for predictions or modify the code to train a model from scratch and save it locally. To enable training, simply uncomment the relevant sections of the code. Due to GitHub's file size limitations, only a few pre-trained models—Tide, Nhits, and TSMixer—are included. If you wish to train other models, you can uncomment the necessary code and create your own trained models.
 
 ## Contact
 
