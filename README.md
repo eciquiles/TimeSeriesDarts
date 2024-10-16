@@ -27,4 +27,4 @@ Each Jupyter notebook in this repository can be used to either load a pre-traine
 
 ## Contact
 
-My LinkedIn:[Esther Cifuentes](https://www.linkedin.com/in/esther-cifuentes-70975b1/)
+If you need help with time series and other machine learning projects , I'm available for contracting and fractional work. Feel free to reach out on LinkedIn: [Esther Cifuentes](https://www.linkedin.com/in/est-h-er-cifuentes-83495a331/)
